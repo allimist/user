@@ -1,0 +1,23 @@
+{
+  "name": "user-mysql",
+  "version": "1.0.0",
+  "description": "Javascript class for user functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allimist/user-mysql.git"
+  },
+  "keywords": [
+    "mysql",
+    "user"
+  ],
+  "author": "allimist",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allimist/user-mysql/issues"
+  },
+  "homepage": "https://github.com/allimist/user-mysql#readme"
+}
